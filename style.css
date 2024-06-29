@@ -116,7 +116,7 @@
 	grid-template-rows: 1;
 	overflow: hidden;
    }
-   .item img {
+   .item_img {
 	grid-column: 2 / -1;
 	grid-row: 2 / -1;
 	width: 100%;
